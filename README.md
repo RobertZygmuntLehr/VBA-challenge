@@ -16,3 +16,6 @@ Bootcamp: UTA-VIRT-DATA-PT-02-2023-U-LOLC-MWTH(B) Challenge 2
 5. "Challenge2_stock_data_2019.png" - Screenshot of the Excel VBA output for 2019.
 6. "Challenge2_stock_data_2020.png" - Screenshot of the Excel VBA output for 2020.
 
+---
+
+© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
