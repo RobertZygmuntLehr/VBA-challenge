@@ -1,21 +1,11 @@
+# The VBA of Wall Street
 
+## Purpose
+Stock market data is analyzed using VBA scripting. The provided data contains stock information for various companies over the course of a year. The objective is to create a script that calculates and displays the yearly change, percentage change, and total stock volume for each stock. Additionally, the script identifies the stocks with the greatest percentage increase, greatest percentage decrease, and greatest total volume.
 
-# VBA-challenge
-Bootcamp: UTA-VIRT-DATA-PT-02-2023-U-LOLC-MWTH(B) Challenge 2
-
-# VBA Homework: The VBA of Wall Street
-
-### FILES LOCATION
-
-1. Submission files are located in the "Submission" folder.
-
-2. Submission file names:
-
-3. "Challenge2_Multiple_year_stock_data.vbs" - Visual Basic script used for the <Multiple_year_stock_data.xlsm'> Excel Workbook.
-4. "Challenge2_stock_data_2018.png" - Screenshot of the Excel VBA output for 2018.
-5. "Challenge2_stock_data_2019.png" - Screenshot of the Excel VBA output for 2019.
-6. "Challenge2_stock_data_2020.png" - Screenshot of the Excel VBA output for 2020.
-
----
-
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+## Script Deliverables
+1. __Retrieval of Data:__ The script loops through one year of stock data and reads/stores the ticker symbol, volume of stock, open price, and close price for each row.
+2. __Column Creation:__ The script creates columns for the ticker symbol, total stock volume, yearly change, and percentage change.
+3. __Conditional Formatting:__ Conditional formatting is applied in the yearly change column to highlight positive and negative changes appropriately.
+4. __Calculated Values:__ The script calculates the greatest percentage increase, greatest percentage decrease, and greatest total volume for the stocks.
+5. __Looping Across Worksheet:__ The VBA script successfully runs on all sheets in the workbook.
