@@ -1,4 +1,4 @@
-# The VBA of Wall Street
+# VBA of Wall Street
 
 ## Purpose
 Stock market data is analyzed using VBA scripting. The provided data contains stock information for various companies over the course of a year. The objective is to create a script that calculates and displays the yearly change, percentage change, and total stock volume for each stock. Additionally, the script identifies the stocks with the greatest percentage increase, greatest percentage decrease, and greatest total volume.
