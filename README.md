@@ -18,7 +18,6 @@ Stock market data is analyzed using Excel VBA scripting. The provided data conta
 - Worksheet navigation and automation
 - Modularizing code for reusability
 
-## Conditional Formatting
 ![2018 Stock Data](https://github.com/robert-z-lehr/VBA-Automated-Stock-Evaluation/blob/main/images/stock-data-2018.png)
 ![2019 Stock Data](https://github.com/robert-z-lehr/VBA-Automated-Stock-Evaluation/blob/main/images/stock-data-2019.png)
 ![2020 Stock Data](https://github.com/robert-z-lehr/VBA-Automated-Stock-Evaluation/blob/main/images/stock-data-2020.png)
